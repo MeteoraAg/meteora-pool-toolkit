@@ -15,3 +15,7 @@ export const DYNAMIC_AMM_PROGRAM_IDS = {
   localhost: "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
   "mainnet-beta": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
 };
+
+export const M3M3_PROGRAM_IDS = {
+  "mainnet-beta": "FEESngU3neckdwib9X3KWqdL7Mjmqk9XNp3uh5JbP4KP",
+};
